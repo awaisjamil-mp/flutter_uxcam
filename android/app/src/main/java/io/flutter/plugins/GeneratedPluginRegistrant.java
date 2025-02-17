@@ -1,6 +1,6 @@
 package io.flutter.plugins;
 
-import io.flutter.plugin.common.PluginRegistry;
+import io.flutter.plugin.common.FlutterPlugin;
 import com.uxcam.flutteruxcam.FlutterUxcamPlugin;
 
 /**
